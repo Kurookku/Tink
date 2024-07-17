@@ -1,0 +1,3 @@
+local TinkServer = {}
+
+return TinkServer

@@ -1,0 +1,3 @@
+local TinkClient = {}
+
+return TinkClient
